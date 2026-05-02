@@ -1,0 +1,8 @@
+.env
+chroma_db/
+bm25_index/
+state/
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/

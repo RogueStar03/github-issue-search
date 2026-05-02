@@ -1,0 +1,7 @@
+chromadb
+python-dotenv
+ollama
+PyGithub
+bm25s
+click
+gradio
